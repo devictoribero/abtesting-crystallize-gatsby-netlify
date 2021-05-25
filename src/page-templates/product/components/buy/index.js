@@ -91,7 +91,7 @@ export default function BuyButton({ product, selectedVariant, pricing }) {
         disabled={!pricing?.defaultPrice.currency}
         state={buying && "loading"}
       >
-        {t("product.addToBasket")}
+        Get it now
       </Button>
     </ProductFooter>
   )
