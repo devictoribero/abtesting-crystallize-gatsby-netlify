@@ -35,6 +35,7 @@
     "rc-slider": "^9.5.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-ga": "^3.3.0",
     "react-helmet": "^6.1.0",
     "react-query": "^3.13.0",
     "styled-components": "^5.1.1",

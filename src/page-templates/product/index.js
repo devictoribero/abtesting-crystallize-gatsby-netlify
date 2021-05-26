@@ -28,6 +28,8 @@ import {
   RelatedContainer,
 } from "./styles"
 
+console.log(process.env.BRANCH)
+
 const ProductPage = ({ product, defaultVariant }) => {
   const t = useT()
   const locale = useLocale()
